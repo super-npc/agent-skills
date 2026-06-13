@@ -4,7 +4,6 @@
     "Humanizer-zh": {
       "source": "github.com/op7418/Humanizer-zh",
       "type": "github",
-      "tracked": true,
       "branch": "main",
       "installed_at": "2026-06-13T21:45:37.236081+08:00",
       "repo_url": "https://github.com/op7418/Humanizer-zh.git",
@@ -14,6 +13,19 @@
         "LICENSE": "sha256:aa00e74769e1b9d8e7fa7094dbfcca9b129a0ded6dce1cf4da050b99146d2fa7",
         "README.md": "sha256:60cd3ed8b4753837ca8f8fcebf6076a38591a269d91ea1791aa7448e5a1b1b58",
         "SKILL.md": "sha256:e0edbdbc9008644263d5573fb59beac95794e188fd99c35012bfd79e9ae4beeb"
+      }
+    },
+    "agent-browser-cli": {
+      "source": "github.com/sleepinginsummer/agent-browser-cli/skills/agent-browser-cli",
+      "type": "github-subdir",
+      "installed_at": "2026-06-13T22:04:58.177478+08:00",
+      "repo_url": "https://github.com/sleepinginsummer/agent-browser-cli.git",
+      "subdir": "skills/agent-browser-cli",
+      "version": "9b9507b",
+      "tree_hash": "1ae9dda0fcf3ce3a0527acb36fbec76243d3face",
+      "file_hashes": {
+        "SKILL.md": "sha256:5900ca9b5ad18ed9efff06fd4a1982fd038ff19bbba378f183439026ede2bce8",
+        "references/operations.md": "sha256:c82ef3590b257cbd8365703965c7024d5a42476e2326305690cd077d4d51d3d1"
       }
     },
     "brainstorming": {
@@ -35,6 +47,18 @@
         "visual-companion.md": "sha256:a2bc6fc47d0df1df981d02f707a16225b147f462e7059175ad2bc5e6dd29fcae"
       }
     },
+    "find-skills": {
+      "source": "github.com/vercel-labs/skills/skills/find-skills",
+      "type": "github-subdir",
+      "installed_at": "2026-06-14T00:44:37.91973+08:00",
+      "repo_url": "https://github.com/vercel-labs/skills.git",
+      "subdir": "skills/find-skills",
+      "version": "be0dd25",
+      "tree_hash": "3013fdeb8a11b10b1eb795ec3ae8bfca38f7c26d",
+      "file_hashes": {
+        "SKILL.md": "sha256:1e85f6f9686e145aca4a124e3b704b9bbea9aa87e08515c1e352eee70f6e6e7a"
+      }
+    },
     "frontend-design": {
       "source": "github.com/anthropics/skills/frontend-design",
       "type": "github-subdir",
@@ -46,6 +70,87 @@
       "file_hashes": {
         "LICENSE.txt": "sha256:0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
         "SKILL.md": "sha256:1608ea77fbb6fc30d13a97d12cfa8ebf31358d40f0dd97beed24829d6b3f45dd"
+      }
+    },
+    "frontend-slides": {
+      "source": "github.com/zarazhangrui/frontend-slides",
+      "type": "github",
+      "installed_at": "2026-06-14T00:31:14.010587+08:00",
+      "repo_url": "https://github.com/zarazhangrui/frontend-slides.git",
+      "version": "c286901",
+      "file_hashes": {
+        "SKILL.md": "sha256:832994fe1dfcce2aa7ceca9a1b7b708eca94becef242713999855f4e946cf4d5"
+      }
+    },
+    "grill-me": {
+      "source": "github.com/mattpocock/skills/skills/productivity/grill-me",
+      "type": "github-subdir",
+      "installed_at": "2026-06-14T00:40:49.658764+08:00",
+      "repo_url": "https://github.com/mattpocock/skills.git",
+      "subdir": "skills/productivity/grill-me",
+      "version": "694fa30",
+      "tree_hash": "2a1ad17028306ebe45f0e49703fa28b9b2e7f499",
+      "file_hashes": {
+        "SKILL.md": "sha256:74147eb6010a65957efef2b9e0f0b3ff935c1def7fc117697151b1d0f3610556"
+      }
+    },
+    "hyperframes": {
+      "source": "github.com/heygen-com/hyperframes/skills/hyperframes",
+      "type": "github-subdir",
+      "installed_at": "2026-06-14T00:26:53.321991+08:00",
+      "repo_url": "https://github.com/heygen-com/hyperframes.git",
+      "subdir": "skills/hyperframes",
+      "version": "fbc3cdf",
+      "tree_hash": "24ee81fa74f6b1c78143cedb40abd834f223f0e3",
+      "file_hashes": {
+        "SKILL.md": "sha256:62f6ec3fbcb968dda66349ceca88b3578df2088cdb5d946b1de5fbe6d5f9e04c",
+        "data-in-motion.md": "sha256:22084b4460a8f815d923b972a908f937c1e573bbbc7a865f6f2979ec2ae7ff15",
+        "house-style.md": "sha256:87998bceff74ed6fb017db5b6b87c2df19972a07bb4a3cbb28618da823ff54de",
+        "palettes/bold-energetic.md": "sha256:17bc6b7889302151b4e5c84c0c6a33df676647078011d9decb2b68810e3baa7f",
+        "palettes/clean-corporate.md": "sha256:d0c8c86838abb77985609629afe600d0ca365eccd835820f309959e8a85cba9d",
+        "palettes/dark-premium.md": "sha256:abfecbf7e8dca3b674376590a0467aac3e13b2135022ae4ec519c4b27c2303b1",
+        "palettes/jewel-rich.md": "sha256:17c8f7506469f66bca4e27ef78c19f0bcbf250f88fe840e3043816b7041c4fc5",
+        "palettes/monochrome.md": "sha256:fe8586f6d70707098859063bdef34d68084f02cf7d5aaa436d4c9915a7ae3748",
+        "palettes/nature-earth.md": "sha256:9710549b17487787fef3c7cb459cfd6e4ac28c1593bf471fcf55a3b4e546beed",
+        "palettes/neon-electric.md": "sha256:35225bf8d2cd37223e88e0bc59b0a96bc8adeda7225389b3df97b675cfd33dfb",
+        "palettes/pastel-soft.md": "sha256:ed4e25bb5f4953c002e55a53320249621437e03b5a11d43e3c1bd32c869b6d95",
+        "palettes/warm-editorial.md": "sha256:c467ee3cc0bbf4b2bedccc8106e18293b8a06dbac8f092b10300492da0e0559a",
+        "patterns.md": "sha256:6872af2ed72083340fc25f23f08b7fabfcd9fd99c1e1b5aa84027779210fcba5",
+        "references/audio-reactive.md": "sha256:f0d83c24fa40d42a74f972ccf3b5254d7706cb063d16b8b41f87dc668a418f49",
+        "references/beat-direction.md": "sha256:26459670fd0a62512c25789167094d0e69d04b257aee37d8591e1b3c417ddae2",
+        "references/captions.md": "sha256:c3a120bd1000fb8dd43da72da9a16b36d5381f4d2fe605ed9d63b1513116e4bd",
+        "references/css-patterns.md": "sha256:39c4af128cdd3ed9d1be652a88c3e4d01cb0daf744dfde3db7197014cd1a38d8",
+        "references/design-picker.md": "sha256:e529493473443dc729d9b79b8d8ba31d38482f3b5e300df7f577b997d65375a2",
+        "references/dynamic-techniques.md": "sha256:1a72b7b6f94ac59e58dbc949c3454161fcfdd0aa1818d1e9c21ec472ddc56662",
+        "references/html-in-canvas-patterns.md": "sha256:5e7c801c65d8f34f38c535bc9ed6808ebb6f475f166347bf71a453eb87614e9a",
+        "references/motion-principles.md": "sha256:18ff430666d83833fca25b45e42606b0ab64fbaf91c9b91ba7ce74624cf6acfb",
+        "references/narration.md": "sha256:6002bb2a2270149a8955068d5952fc57cd22594649f576b3e8c38057846610b6",
+        "references/prompt-expansion.md": "sha256:734686e2bcf98e5b77ee1fe7bbc7ad34be0b83017680fe80dc1ee3e0b941e1de",
+        "references/techniques.md": "sha256:0038264769a32ee0b3799fceb475de646d339cf1bc55c950c6fbe08c85fdddf7",
+        "references/text-effects.md": "sha256:69c6da156c060f977a908fe361b3e6fac877c9ba95fd9921c74077c4f70fa051",
+        "references/transcript-guide.md": "sha256:7f0176536bc5620962efd48d5643ab556b50590b9730ffe0fd6234bfb24ea566",
+        "references/transitions.md": "sha256:f98eed0c034cfc2e2ddd5647f224f64c2fdc1fe6809ccfce2a90689ec9e6024d",
+        "references/transitions/catalog.md": "sha256:557b5b30be7b68f95d8481209b1a2f0a0e1df23f65de9b08f86697d0e6159a54",
+        "references/transitions/css-3d.md": "sha256:e1c3888dd0a2d4b36d25200c1e5ef9038649ae63953865e4b2c4c40fb028d7dd",
+        "references/transitions/css-blur.md": "sha256:fd3eef889a517e1dd985ca816f36f1abfb43420a4b664d4fcc453554cdf561f9",
+        "references/transitions/css-cover.md": "sha256:ba4e5926791c9e6a0a069e20afc91324acb018903f43b4b3f2866d9654f5b7eb",
+        "references/transitions/css-destruction.md": "sha256:7cce7bbd9ebc64176c9ff4fe40ec97273c9c171524d89f853c0651e713949361",
+        "references/transitions/css-dissolve.md": "sha256:47c11ca0a715675c2788aa4a162a652b5dc5f1773b058ea93e9907af56a4eb7c",
+        "references/transitions/css-distortion.md": "sha256:7140650692926959bd5459ca5c478a9b4f137cc76fb92b9138e3b0d353677c06",
+        "references/transitions/css-grid.md": "sha256:c62b17058aa7ba42d34df29436b6b4233e47ff2b72f2c7ce0963c75bdec45144",
+        "references/transitions/css-light.md": "sha256:53f0422d3f6dd2584a30501f84e4f09c9b515f605d51ed264a2061567dda15db",
+        "references/transitions/css-mechanical.md": "sha256:4fed48fa659a4b215a996beeea619d244e6c893700178b1f969c17f2ee0a8612",
+        "references/transitions/css-other.md": "sha256:2156e4fcc3b42cba9e0d9e268944269057fb48ff15fc1983e3ff9386fa2a8cf8",
+        "references/transitions/css-push.md": "sha256:d526a9612483472de4d865ae27061c98842a5155973dd0cec37fac4998dc1b97",
+        "references/transitions/css-radial.md": "sha256:5d8f20de439e3f2c8d45df11c8acbe31dc1b9342e2d54bbe66b451cf81ca0a1b",
+        "references/transitions/css-scale.md": "sha256:3c0cb33d6c844a7265379225f3241d8964afcc908ee757a1ebfb1700a5320ea7",
+        "references/typography.md": "sha256:d0ef1c5666a5b7a5f2af0c5701d17e63017eafc07499830c6616ccdcb21befc8",
+        "references/video-composition.md": "sha256:7e9e618f3e712f87af6cf44074c9aab3aa709045fd8d9da21c00a8c2a42126ae",
+        "scripts/animation-map.mjs": "sha256:eacb3cc40fbabadd66b673d145f2423996abdfc398c62275cbadf677065bb215",
+        "scripts/contrast-report.mjs": "sha256:81c656a9acd23b239eb0b9c8a1da654a37282a06e28d2ed4987b436bf3d4ee20",
+        "scripts/package-loader.mjs": "sha256:278067c09711a20c014f5e8d2e5a358c42a5d49b054503516a693a37b9829ad6",
+        "templates/design-picker.html": "sha256:c417139fef8e21b34d56a85cedda8b9597c9574e0727ce603a4743c4ee592c1a",
+        "visual-styles.md": "sha256:2f2e185a6e3480ab9187071c5cda22295088f6f2a727ec373c13823c23b14859"
       }
     },
     "pdf": {
@@ -69,6 +174,30 @@
         "scripts/extract_form_structure.py": "sha256:6814e3fe8f78c2b16d766c132b5a727ff7a31b71d76a7d46bd6e40fe50bc97c5",
         "scripts/fill_fillable_fields.py": "sha256:d140872c2e92e41b1e05370ae8d270c5b7f5ebdf55d9905f03bc974a9c708ff5",
         "scripts/fill_pdf_form_with_annotations.py": "sha256:8a56e063a49ed53c0b0e1d312ecf8023af76816ed139486ec3b539873de202fd"
+      }
+    },
+    "self-improvement": {
+      "source": "github.com/pskoett/pskoett-ai-skills/skills/self-improvement",
+      "type": "github-subdir",
+      "installed_at": "2026-06-14T00:46:44.542569+08:00",
+      "repo_url": "https://github.com/pskoett/pskoett-ai-skills.git",
+      "subdir": "skills/self-improvement",
+      "version": "20e64ce",
+      "tree_hash": "2e3f284e630e296b3b566a0f1803cf6c5fe4e5f3",
+      "file_hashes": {
+        "SKILL.md": "sha256:35fc75bb011378646468a47fc4e79fb4aff0c6e0d7a7f3829c13a25cb7485db7",
+        "assets/ERRORS.md": "sha256:1f71d62175f235a424beb10b65d0eebac959a58fbe8654f4993106c9168d94ca",
+        "assets/FEATURE_REQUESTS.md": "sha256:bad411d2a5608e2e59f1af8235026a03488d2b2cdc42f0ac4a2d9c32e7d4cdbb",
+        "assets/LEARNINGS.md": "sha256:8633dd91bb72649a6df98f601045c2c623bd1d6fd9fc0cc7c05a35209c1663fc",
+        "assets/SKILL-TEMPLATE.md": "sha256:3ee008f80d53e0e576f7e747ac4c4e040ff659f02d3f5689a95524a3696e4881",
+        "hooks/openclaw/HOOK.md": "sha256:13294242f2fac134af2dcfcda7c273be98e57d26192989afb7a9ebcb5a1eb224",
+        "hooks/openclaw/handler.ts": "sha256:c5865554c99a49db829a82f44363d63507544bd76346db1cda9ce97da903e711",
+        "references/examples.md": "sha256:c11e38794d78cfa1ba633d14232ec7e9808c14696e96a7bd9b8f4fe178f10451",
+        "references/hooks-setup.md": "sha256:b9c658c2cb7f351e840347cfe40cd619ada3cd5f1b6369dd01f978917e6e043a",
+        "references/openclaw-integration.md": "sha256:c3d5d7e7b5d918ef9197c16f8b47a961ca7d15937b736a92c3d7530e1874219a",
+        "scripts/activator.sh": "sha256:a751d91466c8c966f01ac32795871ceff0d1e177c7c186ca4201f962a5cc9be4",
+        "scripts/error-detector.sh": "sha256:8645501970b2171ac2693a58c4e36fd0be849b887718e923bf2962fb447ce3ae",
+        "scripts/extract-skill.sh": "sha256:a0ea0c897e081927305ad4993ef5ffcf37b4eb6d8afbbb08b3b7f7a1c873cd61"
       }
     },
     "skill-creator": {
@@ -103,13 +232,13 @@
     "skillshare": {
       "source": "github.com/runkids/skillshare/skills/skillshare",
       "type": "github-subdir",
-      "installed_at": "2026-06-13T20:09:58.527216+08:00",
+      "installed_at": "2026-06-14T00:37:40.831942+08:00",
       "repo_url": "https://github.com/runkids/skillshare.git",
       "subdir": "skills/skillshare",
-      "version": "3ad54ab",
-      "tree_hash": "e9856989ea681bb7e1f1005c3bf6f052ea4fdb1e",
+      "version": "5740574",
+      "tree_hash": "18c2fffff976d95b1ab83f35c0b19e36e1f96c64",
       "file_hashes": {
-        "SKILL.md": "sha256:a1c425656675cb94250a3f2b0d52163369dcf9bb49cc9b8a0aa8c8dc99a7e468",
+        "SKILL.md": "sha256:584447f5d86a51287950e3fcf8f0bc4c7d88470ca8108a702daa96f923d8dfa4",
         "references/TROUBLESHOOTING.md": "sha256:14855dbd2f20ad7042941959f257c79f768d103e89e55d74d8c3b3d38f9ff5ee",
         "references/audit.md": "sha256:85a31c32f17f39ce2baa5189a8004c6adec506e5fcf7d20378caa103b015fd5d",
         "references/backup.md": "sha256:96e2e8d5e2d7cfb8765c2eebb4e6d733b79258de8b3d974fca8972557f7326a6",
