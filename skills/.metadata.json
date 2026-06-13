@@ -4,7 +4,7 @@
     "brainstorming": {
       "source": "github.com/obra/superpowers/brainstorming",
       "type": "github-subdir",
-      "installed_at": "2026-06-13T19:36:30.984623+08:00",
+      "installed_at": "2026-06-13T20:09:25.470326+08:00",
       "repo_url": "https://github.com/obra/superpowers.git",
       "subdir": "skills/brainstorming",
       "version": "6fd4507",
@@ -23,7 +23,7 @@
     "frontend-design": {
       "source": "github.com/anthropics/skills/frontend-design",
       "type": "github-subdir",
-      "installed_at": "2026-06-13T19:35:21.45973+08:00",
+      "installed_at": "2026-06-13T20:09:37.979315+08:00",
       "repo_url": "https://github.com/anthropics/skills.git",
       "subdir": "skills/frontend-design",
       "version": "5754626",
@@ -36,7 +36,7 @@
     "pdf": {
       "source": "github.com/anthropics/skills/skills/pdf",
       "type": "github-subdir",
-      "installed_at": "2026-06-13T19:28:15.475818+08:00",
+      "installed_at": "2026-06-13T20:09:42.76199+08:00",
       "repo_url": "https://github.com/anthropics/skills.git",
       "subdir": "skills/pdf",
       "version": "5754626",
@@ -59,7 +59,7 @@
     "skill-creator": {
       "source": "github.com/anthropics/skills/skills/skill-creator",
       "type": "github-subdir",
-      "installed_at": "2026-06-13T19:34:29.770972+08:00",
+      "installed_at": "2026-06-13T20:09:52.35161+08:00",
       "repo_url": "https://github.com/anthropics/skills.git",
       "subdir": "skills/skill-creator",
       "version": "5754626",
@@ -88,7 +88,7 @@
     "skillshare": {
       "source": "github.com/runkids/skillshare/skills/skillshare",
       "type": "github-subdir",
-      "installed_at": "2026-06-13T19:28:20.275538+08:00",
+      "installed_at": "2026-06-13T20:09:58.527216+08:00",
       "repo_url": "https://github.com/runkids/skillshare.git",
       "subdir": "skills/skillshare",
       "version": "3ad54ab",
@@ -112,7 +112,7 @@
     "using-superpowers": {
       "source": "github.com/obra/superpowers/using-superpowers",
       "type": "github-subdir",
-      "installed_at": "2026-06-13T19:32:10.224308+08:00",
+      "installed_at": "2026-06-13T20:10:09.398641+08:00",
       "repo_url": "https://github.com/obra/superpowers.git",
       "subdir": "skills/using-superpowers",
       "version": "6fd4507",
