@@ -4,10 +4,10 @@
     "pdf": {
       "source": "github.com/anthropics/skills/skills/pdf",
       "type": "github-subdir",
-      "installed_at": "2026-06-08T20:29:49.906932+08:00",
+      "installed_at": "2026-06-13T19:28:15.475818+08:00",
       "repo_url": "https://github.com/anthropics/skills.git",
       "subdir": "skills/pdf",
-      "version": "c30d329",
+      "version": "5754626",
       "tree_hash": "6369f4649de69bd6857c9bc3b058a77206009238",
       "file_hashes": {
         "LICENSE.txt": "sha256:79f6d8f5b427252fa3b1c11ecdbdb6bf610b944f7530b4de78f770f38741cfaa",
@@ -27,13 +27,13 @@
     "skillshare": {
       "source": "github.com/runkids/skillshare/skills/skillshare",
       "type": "github-subdir",
-      "installed_at": "2026-06-08T20:44:16.845693+08:00",
+      "installed_at": "2026-06-13T19:28:20.275538+08:00",
       "repo_url": "https://github.com/runkids/skillshare.git",
       "subdir": "skills/skillshare",
-      "version": "26ca9f0",
-      "tree_hash": "eafd9fb5846fb5ebe36c625e1131bdd28814a492",
+      "version": "3ad54ab",
+      "tree_hash": "e9856989ea681bb7e1f1005c3bf6f052ea4fdb1e",
       "file_hashes": {
-        "SKILL.md": "sha256:ad494bfd847b0882076afeb1e2e0f2db5b35637583aea3047f249e3a8dce7543",
+        "SKILL.md": "sha256:a1c425656675cb94250a3f2b0d52163369dcf9bb49cc9b8a0aa8c8dc99a7e468",
         "references/TROUBLESHOOTING.md": "sha256:14855dbd2f20ad7042941959f257c79f768d103e89e55d74d8c3b3d38f9ff5ee",
         "references/audit.md": "sha256:85a31c32f17f39ce2baa5189a8004c6adec506e5fcf7d20378caa103b015fd5d",
         "references/backup.md": "sha256:96e2e8d5e2d7cfb8765c2eebb4e6d733b79258de8b3d974fca8972557f7326a6",
