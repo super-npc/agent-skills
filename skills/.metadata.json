@@ -1,6 +1,21 @@
 {
   "version": 1,
   "entries": {
+    "Humanizer-zh": {
+      "source": "github.com/op7418/Humanizer-zh",
+      "type": "github",
+      "tracked": true,
+      "branch": "main",
+      "installed_at": "2026-06-13T21:45:37.236081+08:00",
+      "repo_url": "https://github.com/op7418/Humanizer-zh.git",
+      "version": "91f3d39",
+      "file_hashes": {
+        ".gitignore": "sha256:e52aac198acd71945e1730f45cafba41fffda4e2a0d7d6a38175880aae8eabea",
+        "LICENSE": "sha256:aa00e74769e1b9d8e7fa7094dbfcca9b129a0ded6dce1cf4da050b99146d2fa7",
+        "README.md": "sha256:60cd3ed8b4753837ca8f8fcebf6076a38591a269d91ea1791aa7448e5a1b1b58",
+        "SKILL.md": "sha256:e0edbdbc9008644263d5573fb59beac95794e188fd99c35012bfd79e9ae4beeb"
+      }
+    },
     "brainstorming": {
       "source": "github.com/obra/superpowers/brainstorming",
       "type": "github-subdir",
