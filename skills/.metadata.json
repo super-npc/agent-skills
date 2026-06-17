@@ -17,33 +17,33 @@
     "agent-browser-cli": {
       "source": "github.com/sleepinginsummer/agent-browser-cli/skills/agent-browser-cli",
       "type": "github-subdir",
-      "installed_at": "2026-06-14T09:59:41.655341+08:00",
+      "installed_at": "2026-06-17T22:24:28.458507+08:00",
       "repo_url": "https://github.com/sleepinginsummer/agent-browser-cli.git",
       "subdir": "skills/agent-browser-cli",
-      "version": "9b9507b",
-      "tree_hash": "1ae9dda0fcf3ce3a0527acb36fbec76243d3face",
+      "version": "5f57d0d",
+      "tree_hash": "e8213761fe09a63beba1a4742c0515ac3ab7094e",
       "file_hashes": {
-        "SKILL.md": "sha256:5900ca9b5ad18ed9efff06fd4a1982fd038ff19bbba378f183439026ede2bce8",
-        "references/operations.md": "sha256:c82ef3590b257cbd8365703965c7024d5a42476e2326305690cd077d4d51d3d1"
+        "SKILL.md": "sha256:887c8122375f07a793c7e909875df712941bc54fc44aba7e9906b733a33aef5d",
+        "references/operations.md": "sha256:1ef8622529900cbd6dc1e6ec77df4fae69fafb0f61a048545bca558b7e74bfbe"
       }
     },
     "brainstorming": {
       "source": "github.com/obra/superpowers/brainstorming",
       "type": "github-subdir",
-      "installed_at": "2026-06-14T09:59:49.265183+08:00",
+      "installed_at": "2026-06-17T22:24:40.97089+08:00",
       "repo_url": "https://github.com/obra/superpowers.git",
       "subdir": "skills/brainstorming",
-      "version": "6fd4507",
-      "tree_hash": "f260c775073816860fef8a37c032ac77e2ff5821",
+      "version": "b62616f",
+      "tree_hash": "27e73ef7b83994e913cba378081b587412d2e9cb",
       "file_hashes": {
-        "SKILL.md": "sha256:bba47904a7f6bbee3bf8a107ebbe84e65d392be683bbb898ded736b29e415f90",
-        "scripts/frame-template.html": "sha256:fb22ba9d47f3b83b56e0a95d52a3c2727db03b0d4365078d92c850293a62457b",
-        "scripts/helper.js": "sha256:e763d82f32b4ebb320be2f0d08449d3e5a0585778edf5c407c1fdab3f39976a5",
-        "scripts/server.cjs": "sha256:ea81185f581897c67d4b417eeb9bc7a158c50e0932c73047054fe53efc2683ef",
-        "scripts/start-server.sh": "sha256:3442a54b5ee5511637d27bf696e092b72f94c2324f40b5ba4410da4dd0c23bc8",
-        "scripts/stop-server.sh": "sha256:f65b7634a27343eab2086bdb6c59ba78695685f471b5a577b08a8817f7c50600",
-        "spec-document-reviewer-prompt.md": "sha256:12cb5ed58aef41b8da6fbb505547c71ca3f5658c83b66ca6e556c936308b3189",
-        "visual-companion.md": "sha256:a2bc6fc47d0df1df981d02f707a16225b147f462e7059175ad2bc5e6dd29fcae"
+        "SKILL.md": "sha256:e14914605f640e0841758e45d0ab2a53243b59b921f929e47921c99668f2e61d",
+        "scripts/frame-template.html": "sha256:6a8a4e58bd6a44b904e2e3c57de774481d909204597e1498de53f1b2fecc4c4e",
+        "scripts/helper.js": "sha256:43c6d69954a46ec34a2a262bcc62a9a7e83e839c739f199cb72646d397c686e3",
+        "scripts/server.cjs": "sha256:2d2961ea8d11f56c5f4c3a1a68d22709efa5d7601a2246d8c880774e7e9e8412",
+        "scripts/start-server.sh": "sha256:a4e5ae84275bcaacd2f84345afeabe59cf7b00ba080e123da7cc1fb226f12847",
+        "scripts/stop-server.sh": "sha256:0b5ccbbd57f62d3ed88993f7940b5ee0e5c0fc9b21c550c623da4f6292e47daf",
+        "spec-document-reviewer-prompt.md": "sha256:95a0a195de9d984be2fffa95bab16fc8c563bc296a9cfc5e9c29cb3ece0d7457",
+        "visual-companion.md": "sha256:60cbad29b9dd7eaf08da020e301c498a72230b2e13c1813fa967a135ffcc1d71"
       }
     },
     "find-skills": {
@@ -258,15 +258,13 @@
     "grill-with-docs": {
       "source": "github.com/mattpocock/skills/skills/engineering/grill-with-docs",
       "type": "github-subdir",
-      "installed_at": "2026-06-14T20:16:31.764533+08:00",
+      "installed_at": "2026-06-17T22:25:48.466726+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/engineering/grill-with-docs",
-      "version": "694fa30",
-      "tree_hash": "2c3a4e48571bfe42203ed7b49cae85f31ef4b6f2",
+      "version": "6a62d72",
+      "tree_hash": "21adba95de7d93065d9fec725ddf37f871e01d05",
       "file_hashes": {
-        "ADR-FORMAT.md": "sha256:f1f36cd3f8d3b6474ddd5855da4e233bfc4ae1a1c5024909ccf11871819a41b2",
-        "CONTEXT-FORMAT.md": "sha256:b8cc318f2a4285b530e908b6bc43901c3c5cd11100362636bbc4216639bef597",
-        "SKILL.md": "sha256:3e35025119ba03efe7983dfdec3c8b96918142e3978512f3c2bf66d428310c7e"
+        "SKILL.md": "sha256:610d091047bcfb9db0f75c057d15538481a721111579fc5ec7f83ad9131a2165"
       }
     },
     "hyperframes": {
@@ -407,13 +405,13 @@
     "skillshare": {
       "source": "github.com/runkids/skillshare/skills/skillshare",
       "type": "github-subdir",
-      "installed_at": "2026-06-14T10:00:36.455971+08:00",
+      "installed_at": "2026-06-15T20:35:54.838513+08:00",
       "repo_url": "https://github.com/runkids/skillshare.git",
       "subdir": "skills/skillshare",
-      "version": "11c31ab",
-      "tree_hash": "18c2fffff976d95b1ab83f35c0b19e36e1f96c64",
+      "version": "9e488bf",
+      "tree_hash": "fbbe2e858456f9427e3f02abbf78d14deec1b087",
       "file_hashes": {
-        "SKILL.md": "sha256:584447f5d86a51287950e3fcf8f0bc4c7d88470ca8108a702daa96f923d8dfa4",
+        "SKILL.md": "sha256:b0232b82a1b49aa866e2c05f8d440c84fd5cdf35f4f3d01556118a298515b3e0",
         "references/TROUBLESHOOTING.md": "sha256:14855dbd2f20ad7042941959f257c79f768d103e89e55d74d8c3b3d38f9ff5ee",
         "references/audit.md": "sha256:85a31c32f17f39ce2baa5189a8004c6adec506e5fcf7d20378caa103b015fd5d",
         "references/backup.md": "sha256:96e2e8d5e2d7cfb8765c2eebb4e6d733b79258de8b3d974fca8972557f7326a6",
