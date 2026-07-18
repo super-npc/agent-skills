@@ -1,0 +1,7 @@
+我有一個用 Remotion 寫的 YouTube 影片牆首頁元件（檔案：YoutubeFeed.tsx），請幫我做以下調整：
+1. 把 VIDEOS 陣列中第 N 部影片的 title / channel 改成「___」
+2. 把第 N 部影片的縮圖漸層從現有值改成「___」
+3. 把第 N 部影片的 duration 改成「___」
+4. 調整卡片彈入速度：將 cardProgressList 中的 stiffness 從 150 改大（例如 200）
+5. 把觀看數計數動畫時間從 30 幀改成「___」幀（修改 viewProgressList 中的 start + 30）
+請保留原本的動畫效果，只修改我指定的部分，然後把完整的修改後程式碼給我。

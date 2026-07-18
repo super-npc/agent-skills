@@ -1,0 +1,8 @@
+我有一個用 Remotion 寫的 GitHub Repo 卡片元件（檔案：GithubRepoCard.tsx），請幫我做以下調整：
+1. 把倉庫擁有者名稱從 "username" 改成「___」（修改頂部 USERNAME 常數）
+2. 把倉庫名稱從 "awesome-project" 改成「___」（修改頂部 REPO-NAME 常數）
+3. 把描述文字改成「___」（修改頂部 DESCRIPTION 常數）
+4. 把主題標籤陣列 TOPICS 改成你想要的標籤
+5. 把星數 STARS、FORKS、WATCHERS 改成你想要的數字
+6. 把語言名稱 LANGUAGE 與百分比 LANG-PERCENT 改成你的語言
+請保留原本的動畫效果，只修改我指定的部分，然後把完整的修改後程式碼給我。

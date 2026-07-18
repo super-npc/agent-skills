@@ -1,0 +1,8 @@
+我有一個用 Remotion 寫的場景元件（檔案：Scene211-DeployCloudflare.tsx），請幫我做以下調整：
+
+1. 修改左側前端/後端卡片的描述文字
+2. 調整右側 Cloudflare 部署項目（目前為 Pages、Workers、D1 Database）
+3. 更改主標題文字
+4. 修改底部成功徽章的文字
+
+請保留原本的動畫效果，只修改我指定的部分，然後把完整的修改後程式碼給我。

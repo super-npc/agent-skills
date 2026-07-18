@@ -1,0 +1,8 @@
+我有一個用 Remotion 寫的場景元件（檔案：NotUnderstandScene.tsx），請幫我做以下調整：
+
+1. 修改頂部說明文字（AnimatedTitle 中的 text 字串）
+2. 調整機器人與圖像圖示的出現時間（ROBOT-DELAY、IMAGE-DELAY，目前為第 60、90 幀）
+3. 修改底部副標題文字（目前為「它看到的是像素，不是語意」）
+4. 調整散落問號的數量與位置（scatterPositions 陣列）
+
+請保留逐字動畫與流光連線效果，只修改我指定的部分，然後把完整的修改後程式碼給我。
