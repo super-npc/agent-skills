@@ -4,7 +4,7 @@
     "Humanizer-zh": {
       "source": "https://github.com/op7418/Humanizer-zh.git",
       "type": "github",
-      "installed_at": "2026-07-12T16:22:22.015646+08:00",
+      "installed_at": "2026-07-18T20:08:24.915669+08:00",
       "repo_url": "https://github.com/op7418/Humanizer-zh.git",
       "version": "91f3d39",
       "file_hashes": {
@@ -17,20 +17,20 @@
     "agent-browser-cli": {
       "source": "https://github.com/sleepinginsummer/agent-browser-cli.git/skills/agent-browser-cli",
       "type": "github-subdir",
-      "installed_at": "2026-07-12T16:21:07.912619+08:00",
+      "installed_at": "2026-07-18T20:07:28.255219+08:00",
       "repo_url": "https://github.com/sleepinginsummer/agent-browser-cli.git",
       "subdir": "skills/agent-browser-cli",
-      "version": "fc510ce",
-      "tree_hash": "2230fb86e1ff76b07c053763941315fca6610a84",
+      "version": "64212ad",
+      "tree_hash": "e817993789b1798f682bd734df8438582d2b3335",
       "file_hashes": {
-        "SKILL.md": "sha256:c3b95baa594873bbb6e99daa9d922da811430bc72e17f84c2b1e1c8101eca7e2",
+        "SKILL.md": "sha256:807cc8e1c6db1636f491ec2a987030571407fd140cc0ed7c5746452f64d7aa21",
         "references/operations.md": "sha256:1ef8622529900cbd6dc1e6ec77df4fae69fafb0f61a048545bca558b7e74bfbe"
       }
     },
     "brainstorming": {
       "source": "https://github.com/obra/superpowers.git/skills/brainstorming",
       "type": "github-subdir",
-      "installed_at": "2026-07-12T16:21:16.520363+08:00",
+      "installed_at": "2026-07-18T20:07:34.087346+08:00",
       "repo_url": "https://github.com/obra/superpowers.git",
       "subdir": "skills/brainstorming",
       "version": "d884ae0",
@@ -49,10 +49,10 @@
     "find-skills": {
       "source": "https://github.com/vercel-labs/skills.git/skills/find-skills",
       "type": "github-subdir",
-      "installed_at": "2026-07-12T16:21:27.226783+08:00",
+      "installed_at": "2026-07-18T20:07:45.151232+08:00",
       "repo_url": "https://github.com/vercel-labs/skills.git",
       "subdir": "skills/find-skills",
-      "version": "3176ae4",
+      "version": "777599e",
       "tree_hash": "76a98a285cb0434f3d39e1a873823556330e398b",
       "file_hashes": {
         "SKILL.md": "sha256:c00eeea0e13e74fe4a9d84ba0a8542205a1b736d65f13134fe1a6647eb14976f"
@@ -61,10 +61,10 @@
     "frontend-design": {
       "source": "https://github.com/anthropics/skills.git/skills/frontend-design",
       "type": "github-subdir",
-      "installed_at": "2026-07-12T16:21:36.70199+08:00",
+      "installed_at": "2026-07-18T20:07:52.1583+08:00",
       "repo_url": "https://github.com/anthropics/skills.git",
       "subdir": "skills/frontend-design",
-      "version": "9d2f1ae",
+      "version": "fa0fa64",
       "tree_hash": "0d5b74a14bdf3ebcd64f352d06376a2ef05ed296",
       "file_hashes": {
         "LICENSE.txt": "sha256:0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
@@ -74,7 +74,7 @@
     "frontend-slides": {
       "source": "github.com/zarazhangrui/frontend-slides",
       "type": "github",
-      "installed_at": "2026-07-12T16:21:44.968447+08:00",
+      "installed_at": "2026-07-18T20:07:56.88978+08:00",
       "repo_url": "https://github.com/zarazhangrui/frontend-slides.git",
       "version": "9906a34",
       "file_hashes": {
@@ -246,31 +246,33 @@
     "grill-me": {
       "source": "https://github.com/mattpocock/skills.git/skills/productivity/grill-me",
       "type": "github-subdir",
-      "installed_at": "2026-07-12T16:21:54.201553+08:00",
+      "installed_at": "2026-07-18T20:08:05.589414+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/productivity/grill-me",
-      "version": "391a270",
-      "tree_hash": "8320e7b87f7b208f50ce165b1dd43d1e93c8e801",
+      "version": "9603c1c",
+      "tree_hash": "c817f6f36acd483294144694a935a76d3e3eb101",
       "file_hashes": {
-        "SKILL.md": "sha256:6189dfceb7304a6e5558f75d87e68fa3bc7fcf7ba120e44f21f8a61fe01eba54"
+        "SKILL.md": "sha256:6189dfceb7304a6e5558f75d87e68fa3bc7fcf7ba120e44f21f8a61fe01eba54",
+        "agents/openai.yaml": "sha256:c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b"
       }
     },
     "grill-with-docs": {
       "source": "https://github.com/mattpocock/skills.git/skills/engineering/grill-with-docs",
       "type": "github-subdir",
-      "installed_at": "2026-07-12T16:22:09.865054+08:00",
+      "installed_at": "2026-07-18T20:08:13.565379+08:00",
       "repo_url": "https://github.com/mattpocock/skills.git",
       "subdir": "skills/engineering/grill-with-docs",
-      "version": "391a270",
-      "tree_hash": "21adba95de7d93065d9fec725ddf37f871e01d05",
+      "version": "9603c1c",
+      "tree_hash": "5fdcdeedf2d0c73b3ecb1da0a464dd885590f8d6",
       "file_hashes": {
-        "SKILL.md": "sha256:610d091047bcfb9db0f75c057d15538481a721111579fc5ec7f83ad9131a2165"
+        "SKILL.md": "sha256:610d091047bcfb9db0f75c057d15538481a721111579fc5ec7f83ad9131a2165",
+        "agents/openai.yaml": "sha256:94cd0ab161fb468a836349f5ed482ba58ce8e709a05c57ce533d739dbd35cca9"
       }
     },
     "guizang-social-card-skill": {
       "source": "https://github.com/op7418/guizang-social-card-skill.git",
       "type": "github",
-      "installed_at": "2026-07-12T16:22:18.100941+08:00",
+      "installed_at": "2026-07-18T20:08:21.648247+08:00",
       "repo_url": "https://github.com/op7418/guizang-social-card-skill.git",
       "version": "cf4b810",
       "file_hashes": {
@@ -325,19 +327,24 @@
     "hyperframes": {
       "source": "github.com/heygen-com/hyperframes/skills/hyperframes",
       "type": "github-subdir",
-      "installed_at": "2026-07-12T16:22:35.021419+08:00",
+      "installed_at": "2026-07-18T20:08:32.999693+08:00",
       "repo_url": "https://github.com/heygen-com/hyperframes.git",
       "subdir": "skills/hyperframes",
-      "version": "505003e",
-      "tree_hash": "6e76c8f061bc251bf6284e185343d8b28d4c2f85",
+      "version": "feb675a",
+      "tree_hash": "127d8f6fad5432555b68d93c41a0ee26378745fa",
       "file_hashes": {
-        "SKILL.md": "sha256:91c4c514018ed830832a601a7f23d2db48ba9e0b9e4fbd00a25ad93fa1d64876"
+        "SKILL.md": "sha256:73c0d30c9038fda3043d1e1e7ff0ad4975082c6561ed5409d10ea21e95356548",
+        "references/capability-menu.md": "sha256:13113a15eae24401f8417b72fa2e5ec171deecc0773aac283919a7bb0f50799b",
+        "references/pitch-round.md": "sha256:121aded9aa511aa7ae8f242739ddcb77710dd925aea5221b29febfd1b42ce112",
+        "references/route-briefs.md": "sha256:746cd8c65160ecf1acd986214d0efb3417649fefecea6e699e56ade523a7bf69",
+        "references/skill-lifecycle.md": "sha256:74cc697ac9171443043942cd9f61a126bfea1ee984b62f88382e4351d79e23c7",
+        "references/workflow-catalog.md": "sha256:fee057ed81bc50c303032e6453f0ff70d51f8975484a822e91b3744c02a305a3"
       }
     },
     "ian-xiaohei-illustrations": {
       "source": "https://github.com/helloianneo/ian-xiaohei-illustrations.git/ian-xiaohei-illustrations",
       "type": "github-subdir",
-      "installed_at": "2026-07-12T16:22:50.725647+08:00",
+      "installed_at": "2026-07-18T20:08:46.628457+08:00",
       "repo_url": "https://github.com/helloianneo/ian-xiaohei-illustrations.git",
       "subdir": "ian-xiaohei-illustrations",
       "version": "91b5608",
@@ -369,7 +376,7 @@
     "manim-video": {
       "source": "https://github.com/browser-use/video-use.git/skills/manim-video",
       "type": "github-subdir",
-      "installed_at": "2026-07-12T16:22:58.054075+08:00",
+      "installed_at": "2026-07-18T20:08:56.242682+08:00",
       "repo_url": "https://github.com/browser-use/video-use.git",
       "subdir": "skills/manim-video",
       "version": "92c2b34",
@@ -397,10 +404,10 @@
     "pdf": {
       "source": "https://github.com/anthropics/skills.git/skills/pdf",
       "type": "github-subdir",
-      "installed_at": "2026-07-12T16:23:06.794364+08:00",
+      "installed_at": "2026-07-18T20:09:04.091613+08:00",
       "repo_url": "https://github.com/anthropics/skills.git",
       "subdir": "skills/pdf",
-      "version": "9d2f1ae",
+      "version": "fa0fa64",
       "tree_hash": "6369f4649de69bd6857c9bc3b058a77206009238",
       "file_hashes": {
         "LICENSE.txt": "sha256:79f6d8f5b427252fa3b1c11ecdbdb6bf610b944f7530b4de78f770f38741cfaa",
@@ -420,7 +427,7 @@
     "self-improvement": {
       "source": "https://github.com/pskoett/pskoett-ai-skills.git/skills/self-improvement",
       "type": "github-subdir",
-      "installed_at": "2026-07-12T16:23:19.241445+08:00",
+      "installed_at": "2026-07-18T20:09:10.795909+08:00",
       "repo_url": "https://github.com/pskoett/pskoett-ai-skills.git",
       "subdir": "skills/self-improvement",
       "version": "20e64ce",
@@ -444,10 +451,10 @@
     "skill-creator": {
       "source": "https://github.com/anthropics/skills.git/skills/skill-creator",
       "type": "github-subdir",
-      "installed_at": "2026-07-12T16:23:27.225333+08:00",
+      "installed_at": "2026-07-18T20:09:17.765829+08:00",
       "repo_url": "https://github.com/anthropics/skills.git",
       "subdir": "skills/skill-creator",
-      "version": "9d2f1ae",
+      "version": "fa0fa64",
       "tree_hash": "3cf9a8db32597ba3e24b584a3d696f4e11c7d7b6",
       "file_hashes": {
         "LICENSE.txt": "sha256:bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362",
@@ -473,22 +480,22 @@
     "skillshare": {
       "source": "https://github.com/runkids/skillshare.git/skills/skillshare",
       "type": "github-subdir",
-      "installed_at": "2026-07-12T16:23:36.883217+08:00",
+      "installed_at": "2026-07-18T20:09:28.377819+08:00",
       "repo_url": "https://github.com/runkids/skillshare.git",
       "subdir": "skills/skillshare",
-      "version": "67bb2c1",
-      "tree_hash": "0523b33bb3055ffd2570cfb7df681ea73d14ee6d",
+      "version": "ba46ae8",
+      "tree_hash": "a5314a48a805c653e2631c91d51f67fee27b210f",
       "file_hashes": {
-        "SKILL.md": "sha256:b2a6371f715a9c06f4ac6aceffd1d135c9220441e5a1f357c07c88289cb5248d",
+        "SKILL.md": "sha256:309fba3eb3e89871333400fc2c0fba6327385ca84303b0a7e4b0044c1cfcf72e",
         "references/TROUBLESHOOTING.md": "sha256:14855dbd2f20ad7042941959f257c79f768d103e89e55d74d8c3b3d38f9ff5ee",
         "references/audit.md": "sha256:85a31c32f17f39ce2baa5189a8004c6adec506e5fcf7d20378caa103b015fd5d",
         "references/backup.md": "sha256:96e2e8d5e2d7cfb8765c2eebb4e6d733b79258de8b3d974fca8972557f7326a6",
         "references/extras.md": "sha256:c133ccb6a2da342fbf05919c27855cb1de124042f8654396e50ee82a2b7e40e1",
         "references/init.md": "sha256:41d99a2a49f576e1a2354312856ccf730f8d19d4c8d35c592585d40bc2d14d82",
-        "references/install.md": "sha256:2b444bfcd211fae59421631ecd49331b4de287c311354f8ed3ca19f204d223db",
+        "references/install.md": "sha256:e59b9b1169fb72f063249f56b5fc7dee46bd3f9b9d2fe6d7d73b3319e14ff165",
         "references/log.md": "sha256:406e85525f53f4deaa0f48bf8b3b53db3e032b99f5a0e926c84542d51b3a3625",
         "references/status.md": "sha256:0143c8250ecbedfa14607b82cbfb23107294b6c1e053b5726629556b7a47412c",
-        "references/sync.md": "sha256:75577dce829fda6050b3b761915b70d9aef0d6bdb3c010d2fef7b7b22e226a8e",
+        "references/sync.md": "sha256:00877a4a9c1ca0c02a8601aad694cadce61c3facbe57603d36c0ef937028f658",
         "references/targets.md": "sha256:130b0b07b17a88d4bc09af0262a6b161421946f5442295dc5bc828f95226763e",
         "references/trash.md": "sha256:fb94aa6b71d469fa8f6b5e728fcab531b6eb010a2092389b02eaaadf3ebc98cf",
         "scripts/run.sh": "sha256:e434ebdb7d3ae0b37c00ddc36687bc975da9e766b8cb863f9aed9a624ebbdfa9"
@@ -497,7 +504,7 @@
     "using-superpowers": {
       "source": "https://github.com/obra/superpowers.git/skills/using-superpowers",
       "type": "github-subdir",
-      "installed_at": "2026-07-12T16:23:43.898267+08:00",
+      "installed_at": "2026-07-18T20:09:36.737669+08:00",
       "repo_url": "https://github.com/obra/superpowers.git",
       "subdir": "skills/using-superpowers",
       "version": "d884ae0",
@@ -512,7 +519,7 @@
     "video-use": {
       "source": "https://github.com/browser-use/video-use.git",
       "type": "github",
-      "installed_at": "2026-07-12T16:23:50.490695+08:00",
+      "installed_at": "2026-07-18T20:09:44.794141+08:00",
       "repo_url": "https://github.com/browser-use/video-use.git",
       "version": "92c2b34",
       "file_hashes": {
