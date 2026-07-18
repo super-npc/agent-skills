@@ -1,6 +1,6 @@
 ---
 name: self-media-sanguan
-description: 基于 Remotion 的「三观拎得清」短视频工作流。输入 MP3 + 字幕文件，使用内置动画模板库和固定用户信息，自动生成带片头/片尾的 9:16 竖版视频。
+description: 基于 Remotion 的「凡间清醒」短视频工作流。输入 MP3 + 字幕文件，使用内置动画模板库和固定用户信息，自动生成带片头/片尾的 9:16 竖版视频。
 ---
 
 # self-media-sanguan
@@ -17,7 +17,7 @@ description: 基于 Remotion 的「三观拎得清」短视频工作流。输入
 
 | 资源 | 路径 |
 |---|---|
-| 用户名 | `三观拎得清` |
+| 用户名 | `凡间清醒` |
 | 用户头像 | `assets/avatar.png` |
 | 动画模板库 | `assets/animation-templates/` |
 | 背景配色 | 金色 `#facc15` + 橙色 `#f97316` |

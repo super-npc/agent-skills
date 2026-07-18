@@ -49,7 +49,7 @@ const KEYWORDS_RE = new RegExp(
 );
 
 // ── 用户信息（已内置）──────────────────────────────
-const USER_NAME = "三观拎得清";
+const USER_NAME = "凡间清醒";
 const USER_AVATAR = staticFile("avatar.png");
 
 // ── 子组件 ────────────────────────────────────────
