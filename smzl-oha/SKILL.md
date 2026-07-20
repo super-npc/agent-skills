@@ -63,6 +63,17 @@ docker run --rm -it --network=host ghcr.io/hatoo/oha:1.15 \
   -n 5000 -c 100 -H "Authorization: Bearer <token>" <URL>
 ```
 
+### 生产强度压力 (20000请求, 并发2000)
+
+```bash
+docker run --rm --network=host --ulimit nofile=65536:65536 ghcr.io/hatoo/oha:1.15 \
+  -n 20000 -c 2000 -t 30s --no-tui \
+  -H "Authorization: Bearer <token>" <URL>
+```
+
+> ⚠️ `--ulimit nofile=65536:65536` 必须加，否则 ~990 个 EMFILE 错误拉不满 2000 并发。
+> `-t 30s` 超时放宽避免把长尾延迟误判为超时。
+
 ### 持续时长模式
 
 ```bash
