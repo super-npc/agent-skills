@@ -1,0 +1,8 @@
+我有一個用 Remotion 寫的場景元件（檔案：Scene150-TwoErrorsDetail.tsx），請幫我做以下調整：
+
+1. 修改第一個錯誤的標題（目前是「痛點有問題」）
+2. 調整第二個錯誤的標題（目前是「Distribution 不深」）
+3. 更換錯誤編號圓圈的顏色（目前是紅色 #EF4444）
+4. 修改英文副標（第一個目前是 "The pain point itself is questionable"）
+
+請保留原本的兩段依序出現動畫、問號 wobble 與人群出現效果，只修改我指定的部分，然後把完整的修改後程式碼給我。

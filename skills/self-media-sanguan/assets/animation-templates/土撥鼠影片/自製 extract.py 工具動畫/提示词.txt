@@ -1,0 +1,8 @@
+我有一個用 Remotion 寫的場景元件（檔案：Scene60-ExtractTool.tsx），請幫我做以下調整：
+
+1. 修改工具名稱（目前是 extract.py）
+2. 更改終端機中顯示的執行步驟文字（目前是 Fetching website、Extracting HTML/CSS 等）
+3. 調整燈泡啟示階段的說明文字（目前是「參考了一些做法」）
+4. 修改「自製工具」徽章的顏色（目前使用 warning #FFB547）
+
+請保留原本的動畫效果，只修改我指定的部分，然後把完整的修改後程式碼給我。

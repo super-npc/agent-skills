@@ -1,0 +1,9 @@
+我有一個用 Remotion 寫的 App Store 上架卡片元件（檔案：AppStoreCard.tsx），請幫我做以下調整：
+1. 把 App 名稱從 "SuperApp" 改成「___」（修改頂部 APP-NAME 常數）
+2. 把開發者名稱從 "Dev Studio Inc." 改成「___」（修改頂部 DEVELOPER 常數）
+3. 把評分從 "4.8" 改成「___」（修改頂部 RATING 常數）
+4. 把評分人數從 "12.3k 評分" 改成「___」（修改頂部 RATING-COUNT 常數）
+5. 把描述文字改成「___」（修改頂部 DESCRIPTION 常數）
+6. 把版本號 VERSION 與大小 SIZE 改成你的應用程式資訊
+7. 把 RATING-BARS 陣列中的 fill 比例改成符合你評分分布的數值（總和建議接近 1）
+請保留原本的動畫效果，只修改我指定的部分，然後把完整的修改後程式碼給我。

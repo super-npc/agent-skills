@@ -1,0 +1,9 @@
+我有一個用 Remotion 寫的 LED 數位倒數計時器元件（檔案：CountdownDigital.tsx），請幫我做以下調整：
+
+1. 把倒數秒數從 10 改成「___」秒（修改頂部 TOTAL-SECONDS 常數）
+2. 把 LED 顏色從紅色 rgba(255,40,40,...) 改成「___」色（需同步修改 onColor、offColor 及 shadow 中的 RGB 值）
+3. 把頂部標籤從「COUNTDOWN TIMER」改成「___」
+4. 把最後幾秒警示閾值從 3 改成「___」秒（修改 isLast3 的判斷）
+5. 把閃爍頻率加快：把 blinkRate 的 0.3 改大可更快，改小可更慢
+
+請保留 7-segment 矩形拼組邏輯與掃描線效果，只修改我指定的部分，然後把完整的修改後程式碼給我。
