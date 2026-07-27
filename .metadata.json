@@ -1,6 +1,33 @@
 {
   "version": 1,
   "entries": {
+    "domain-modeling": {
+      "source": "github.com/mattpocock/skills/skills/engineering/domain-modeling",
+      "type": "github-subdir",
+      "installed_at": "2026-07-20T10:41:56.0227036+08:00",
+      "repo_url": "https://github.com/mattpocock/skills.git",
+      "subdir": "skills/engineering/domain-modeling",
+      "version": "9603c1c",
+      "tree_hash": "959e63161ff78b4b1cd553b2c0e09e0c68418e5f",
+      "file_hashes": {
+        "ADR-FORMAT.md": "sha256:dba54707c3251660ecf7ee6ff154a816a62badddd4ef403062f3a34e23509636",
+        "CONTEXT-FORMAT.md": "sha256:f229cd8485b77ea76428ffb807058ebd1d254a391b9669b10081942d3d6e8dd3",
+        "SKILL.md": "sha256:004d5cb6258658f2e9cbf0d9f90bdc9104f8b83bd296556783800c31d503814f",
+        "agents/openai.yaml": "sha256:ce496c77c77a090877bff10f198c9770fb52e23088351350ea0826380f948ff8"
+      }
+    },
+    "grilling": {
+      "source": "github.com/mattpocock/skills/skills/productivity/grilling",
+      "type": "github-subdir",
+      "installed_at": "2026-07-20T10:40:46.7640051+08:00",
+      "repo_url": "https://github.com/mattpocock/skills.git",
+      "subdir": "skills/productivity/grilling",
+      "version": "9603c1c",
+      "file_hashes": {
+        "SKILL.md": "sha256:44331dda57f461db4fec3f2efb6ddabe7aaaa0a57ae0f88a883bc61aed8a0587",
+        "agents/openai.yaml": "sha256:cf29b9a8dbf35a58a908a6ca4f64dcd86c2b2130291eee0a78b9f706b138825b"
+      }
+    },
     "skills/skillshare": {
       "source": "github.com/runkids/skillshare/skills/skillshare",
       "type": "github-subdir",
