@@ -27,23 +27,58 @@
         "references/operations.md": "sha256:1ef8622529900cbd6dc1e6ec77df4fae69fafb0f61a048545bca558b7e74bfbe"
       }
     },
-    "brainstorming": {
-      "source": "https://github.com/obra/superpowers.git/skills/brainstorming",
+    "bruno-ci-setup": {
+      "source": "github.com/bruno-collections/bruno-agent-skills/bruno-ci-setup",
       "type": "github-subdir",
-      "installed_at": "2026-07-26T08:14:50.857873+08:00",
-      "repo_url": "https://github.com/obra/superpowers.git",
-      "subdir": "skills/brainstorming",
-      "version": "3dcbd5c",
-      "tree_hash": "a24cbf66c526b88d26cb9c816a843df9e50d0fc7",
+      "installed_at": "2026-08-02T18:39:08.805451+08:00",
+      "repo_url": "https://github.com/bruno-collections/bruno-agent-skills.git",
+      "subdir": "bruno-ci-setup",
+      "version": "60f8260",
+      "tree_hash": "9821000eca41e4595e121635bb39de6486d80413",
       "file_hashes": {
-        "SKILL.md": "sha256:4a54a4858b99807f3155ed1614b2f116e35ea5c1b788e793f565dd837fd3891f",
-        "scripts/frame-template.html": "sha256:6a8a4e58bd6a44b904e2e3c57de774481d909204597e1498de53f1b2fecc4c4e",
-        "scripts/helper.js": "sha256:43c6d69954a46ec34a2a262bcc62a9a7e83e839c739f199cb72646d397c686e3",
-        "scripts/server.cjs": "sha256:2d2961ea8d11f56c5f4c3a1a68d22709efa5d7601a2246d8c880774e7e9e8412",
-        "scripts/start-server.sh": "sha256:a4e5ae84275bcaacd2f84345afeabe59cf7b00ba080e123da7cc1fb226f12847",
-        "scripts/stop-server.sh": "sha256:0b5ccbbd57f62d3ed88993f7940b5ee0e5c0fc9b21c550c623da4f6292e47daf",
-        "spec-document-reviewer-prompt.md": "sha256:95a0a195de9d984be2fffa95bab16fc8c563bc296a9cfc5e9c29cb3ece0d7457",
-        "visual-companion.md": "sha256:60cbad29b9dd7eaf08da020e301c498a72230b2e13c1813fa967a135ffcc1d71"
+        "SKILL.md": "sha256:199c363cb785cd61677d5ea55047d5adc9a8d3a90eefd3922027d872556b2cba",
+        "agents/openai.yaml": "sha256:8b2f63aadb894951e0441d2f77535f4477b591e358527e00d8114c892bc8aaa4",
+        "references/cli-options-quick-reference.md": "sha256:c439a61b4c62e3ef9be1e36668cd4cdf88e8d89e6d12864abd811b289d364519",
+        "references/docker-patterns.md": "sha256:98a9500d2f21ccbaa1ba06b68951e7103b2159ed484f37316d6810dbc2dc4cca",
+        "references/github-actions-patterns.md": "sha256:5b71d0bc4f319516cb233829dbbb41abf5cbcd48766a822d5d0d6ef1f18d3594",
+        "scripts/latest_version.py": "sha256:dd9b938a1845f21869f1583afa025c16388b695a0f2179f92aa276c09432d258",
+        "scripts/render_github_action.py": "sha256:8f9cf9a1b8742cd4012ffcc5042e7d07ecc3e720eba332729d33a7c153b33683",
+        "scripts/test_render_github_action.py": "sha256:9a62c092803b75fb9db38c7794a6a5e3798c88b4aa2030f1ca747c9b9d136e23"
+      }
+    },
+    "bruno-collection-generator": {
+      "source": "github.com/bruno-collections/bruno-agent-skills/bruno-collection-generator",
+      "type": "github-subdir",
+      "installed_at": "2026-08-02T18:39:27.672256+08:00",
+      "repo_url": "https://github.com/bruno-collections/bruno-agent-skills.git",
+      "subdir": "bruno-collection-generator",
+      "version": "60f8260",
+      "tree_hash": "00c6ae484c95f0c54225ac8a9b6420f0ce13c129",
+      "file_hashes": {
+        "SKILL.md": "sha256:4bbaba06ea51feab5250e33c41cbcaaf449143216825c0c932f74fea21b46c05",
+        "agents/openai.yaml": "sha256:3bd7fdda0c77f278f64da160be19524b31bbf5cd380dd72dea0a9a0a2b3e4952",
+        "assets/example-endpoints/endpoints.json": "sha256:ef6abfc3686bfbc8849fe1dc3dab73203356a58ec78cf36d1c2825903d9a0d67",
+        "references/generation-checklist.md": "sha256:58542de5f3b54a86e6e4fa26a528d27ca37475a982baeb24529e9a56359b4042",
+        "references/opencollection-yaml-quick-reference.md": "sha256:c7d81ca3066cefb4eb9543f7de944c53c5fcfecda35c04a6b711a33c6af14bb0",
+        "scripts/scaffold_opencollection.py": "sha256:9c1a2917b7c170d7b7e6d78349608ffd84f3ddf7c5beead1199346d71e200e1e",
+        "scripts/test_scaffold_opencollection.py": "sha256:8a45eab8ddd9bab505bcd984c159a02011ac74e45eab3dd596af1ab5b0e50646"
+      }
+    },
+    "bruno-test-writer": {
+      "source": "github.com/bruno-collections/bruno-agent-skills/bruno-test-writer",
+      "type": "github-subdir",
+      "installed_at": "2026-08-02T18:39:45.297457+08:00",
+      "repo_url": "https://github.com/bruno-collections/bruno-agent-skills.git",
+      "subdir": "bruno-test-writer",
+      "version": "60f8260",
+      "tree_hash": "0298df20d24574fe14fb96ba1b874c34bb56b914",
+      "file_hashes": {
+        "SKILL.md": "sha256:8bae2b380571f9c3a6d172b5d59f748e85e59d9f464624d291838a9e12172266",
+        "agents/openai.yaml": "sha256:20fe25b8523299bdca50fd43212f14a911b8a52c7851b1202a40d5391587b157",
+        "references/script-api-quick-reference.md": "sha256:30d3c4b310e7c4d05e2f58d17ca1a716f1111aeed991f886b10f2fc3eac2de26",
+        "references/testing-patterns.md": "sha256:25c26e834ced5adba6f7fa8bbba3d96397285a4b0899b9b5d2ea3a00afd0ed1c",
+        "scripts/generate_tests.py": "sha256:4105724ae89570588c31f0ba5193fda64f3b7c01126656672eb031d9dff9558f",
+        "scripts/test_generate_tests.py": "sha256:cfbced9b3e39ba4a88933e46e483f854227ec374a58a2e5be2b708344a7ff6a8"
       }
     },
     "find-skills": {
@@ -510,22 +545,6 @@
         "references/targets.md": "sha256:130b0b07b17a88d4bc09af0262a6b161421946f5442295dc5bc828f95226763e",
         "references/trash.md": "sha256:fb94aa6b71d469fa8f6b5e728fcab531b6eb010a2092389b02eaaadf3ebc98cf",
         "scripts/run.sh": "sha256:e434ebdb7d3ae0b37c00ddc36687bc975da9e766b8cb863f9aed9a624ebbdfa9"
-      }
-    },
-    "using-superpowers": {
-      "source": "https://github.com/obra/superpowers.git/skills/using-superpowers",
-      "type": "github-subdir",
-      "installed_at": "2026-07-26T08:16:19.038658+08:00",
-      "repo_url": "https://github.com/obra/superpowers.git",
-      "subdir": "skills/using-superpowers",
-      "version": "3dcbd5c",
-      "tree_hash": "a5e27b759e1c907c5076340848308f6aa37f33d4",
-      "file_hashes": {
-        "SKILL.md": "sha256:55379fe7c1c473a02c61961c822996bff30e1320d6921d9062509bc508482c05",
-        "references/antigravity-tools.md": "sha256:4880f6de3da4e32f9659ebe7a72b9e0ebfff04e028c2ed96173f86d0387a04c0",
-        "references/codex-tools.md": "sha256:d3f113a8ebbd748e8ba847b09b57b7685442775ca4ee194d693ce3663f8fac68",
-        "references/gemini-tools.md": "sha256:62b9157bcb0ee3c6784e3d0da0798ddfa5872f9e0c34bea48f3079dabea71965",
-        "references/pi-tools.md": "sha256:703dbc83d23ecab9c6f388460c38abc482e9dee2fe6772a8c7a255152ad3a4d5"
       }
     },
     "video-use": {
