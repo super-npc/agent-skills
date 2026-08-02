@@ -526,7 +526,7 @@
     "skillshare": {
       "source": "github.com/runkids/skillshare/skills/skillshare",
       "type": "github-subdir",
-      "installed_at": "2026-08-02T18:34:39.701371+08:00",
+      "installed_at": "2026-08-02T18:42:57.877408+08:00",
       "repo_url": "https://github.com/runkids/skillshare.git",
       "subdir": "skills/skillshare",
       "version": "1eb54b3",
