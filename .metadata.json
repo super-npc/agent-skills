@@ -16,6 +16,19 @@
         "agents/openai.yaml": "sha256:ce496c77c77a090877bff10f198c9770fb52e23088351350ea0826380f948ff8"
       }
     },
+    "feishu-doc": {
+      "source": "github.com/m1heng/clawdbot-feishu/skills/feishu-doc",
+      "type": "github-subdir",
+      "installed_at": "2026-08-04T16:24:56.8880124+08:00",
+      "repo_url": "https://github.com/m1heng/clawdbot-feishu.git",
+      "subdir": "skills/feishu-doc",
+      "version": "b07885b",
+      "tree_hash": "7e60c96db3ee2e0ef4279f999c78f9f6b26a1e5b",
+      "file_hashes": {
+        "SKILL.md": "sha256:bb3733fdf755e2386ce677bb238148f9399be8139ba69575836399bba8ed9414",
+        "references/block-types.md": "sha256:6f9064febe858cfe309341d4394dd5cae4d6747d5d903f474cdf4fbe0b16e82f"
+      }
+    },
     "grilling": {
       "source": "github.com/mattpocock/skills/skills/productivity/grilling",
       "type": "github-subdir",
